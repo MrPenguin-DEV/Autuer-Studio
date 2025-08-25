@@ -16,3 +16,10 @@ An AI-powered animation studio pipeline that combines Gemini models for story ge
 ```bash
 git clone https://github.com/MrPenguin-Dev/auteur-studio.git
 cd auteur-studio
+```
+2. Install Using Pip:
+   ```bash
+   pip install git+https://github.com/MrPenguin-Dev/auteur-studio.git
+   ```
+
+## Usage
