@@ -18,8 +18,8 @@ git clone https://github.com/MrPenguin-Dev/auteur-studio.git
 cd auteur-studio
 ```
 2. Install Using Pip:
-   ```bash
-   pip install git+https://github.com/MrPenguin-Dev/auteur-studio.git
-   ```
+```bash
+pip install git+https://github.com/MrPenguin-Dev/auteur-studio.git
+```
 
 ## Usage
