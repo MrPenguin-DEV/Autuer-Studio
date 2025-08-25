@@ -14,5 +14,5 @@ An AI-powered animation studio pipeline that combines Gemini models for story ge
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/auteur-studio.git
+git clone https://github.com/MrPenguin-Dev/auteur-studio.git
 cd auteur-studio
