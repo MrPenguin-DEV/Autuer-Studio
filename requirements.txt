@@ -1,0 +1,8 @@
+google-genai>=0.3.0
+requests>=2.25.0
+moviepy>=1.0.0
+pyngrok>=5.0.0
+pillow>=9.0.0
+pyyaml>=6.0
+tqdm>=4.60.0
+click>=8.0.0

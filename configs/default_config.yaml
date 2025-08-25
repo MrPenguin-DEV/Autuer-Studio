@@ -1,0 +1,13 @@
+gemini:
+  api_key: YOUR_GEMINI_API_KEY
+  model: "gemini-2.5-flash"
+
+comfyui:
+  enabled: false
+  base_url: "http://localhost:8188"
+  workflow_api_json: "configs/comfyui_workflow_api.json"
+
+paths:
+  project_root: "/content/auteur_projects"
+  assets: "assets"
+  scripts: "scripts"
